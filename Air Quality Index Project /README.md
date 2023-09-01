@@ -15,7 +15,7 @@ Since we have shown that AQI has a very similar pattern to the PMs and also cons
 Disclaimers:
 
 The project was inspired by the following paper: \
-M. A. Zoran R,., S., Savastru, D., M. Savastru, Marina. & N., Tautan. Assessing the relationship between surface levels of PM2.5 and PM10 particulate matter impact on COVID-19 in Milan, Italy 
+M. A. Zoran, R., S., Savastru, D., M. Savastru, Marina. & N., Tautan. Assessing the relationship between surface levels of PM2.5 and PM10 particulate matter impact on COVID-19 in Milan, Italy 
 
 Covid data are taken from:
 https://github.com/pcm-dpc/COVID-19 
