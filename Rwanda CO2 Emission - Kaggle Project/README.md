@@ -1,5 +1,5 @@
 This repository contain a notebook with an exercise that solve a Kaggle competion. \
-The Kaggle competition aimed to predict the CO2 emission by using some atmospherical features. In order to solve this I used a random forest and previously a Principal Component Analysis + Simple Imputation + Standardization to reduce the huge dimensionality of the data.\
+The Kaggle competition aimed to predict the Rwanda's CO2 emission in a 4 year timespan (2019-2022) by using some atmospherical features. In order to solve this I used a random forest and previously a Principal Component Analysis + Simple Imputation + Standardization to reduce the huge dimensionality of the data.\
 The final result is good, totalizing a 6.9% error in the test set.
 
 
